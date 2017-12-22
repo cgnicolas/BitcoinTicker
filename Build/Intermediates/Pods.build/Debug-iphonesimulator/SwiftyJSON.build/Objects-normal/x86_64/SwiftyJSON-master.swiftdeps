@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "5a941795df4c44c5e56ed11d0ee43edf"
+build_time: [1513034816, 919931000]
+inputs:
+  "/Users/cedricnicolas/Desktop/Bitcoin-Ticker-iOS11-master/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1513034809, 0]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "f752044bd7bfd8d6919ac5eb4072b691"
+build_time: [1513040576, 661034000]
+inputs:
+  "/Users/cedricnicolas/Desktop/Bitcoin-Ticker-iOS11-master/BitcoinTicker/ViewController.swift": [1513040576, 0]
+  "/Users/cedricnicolas/Desktop/Bitcoin-Ticker-iOS11-master/BitcoinTicker/AppDelegate.swift": [1510841148, 0]
